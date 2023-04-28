@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ /* header */
+    .home-logo{
+       height: 5vh;
+       width: 6vw;
+      
+    }
+   
+ /* header */
+ .c-item{
+    height: 1100px;
+ 
+ }
+ 
+ 
+ .c-img{
+    height: 100%;
+    object-fit: cover;
+    
+ }
+ 
+ .second-panel{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+ }
+ 
+ .container{
+    margin: 0;
+    padding: 3rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+ }
+ .image-contaner{
+    display:block
+   
+ }
+ 
+ .overlay{
+    position:absolute
+ 
+ 
+    
+ }
+ 
+ footer{
+    font-size: smaller;
+    font-weight: 10;
+    margin-bottom: 0;
+    padding-bottom: 0;
+ }
